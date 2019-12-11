@@ -4,12 +4,12 @@
 [submodule "core-ext"]
 	path = core-ext
 	url = https://github.com/ONLYOFFICE/core-ext.git
-[submodule "sdkjs"]
-	path = sdkjs
-	url = https://github.com/ONLYOFFICE/sdkjs.git
 [submodule "mobile-apps"]
 	path = mobile-apps
 	url = https://github.com/ONLYOFFICE/mobile-apps.git
-[submodule "web-apps-pro"]
-	path = web-apps-pro
-	url = https://github.com/ONLYOFFICE/web-apps-pro.git
+[submodule "web-apps"]
+	path = web-apps
+	url = https://github.com/ONLYOFFICE/web-apps.git
+[submodule "sdkjs"]
+	path = sdkjs
+	url = https://github.com/ONLYOFFICE/sdkjs.git

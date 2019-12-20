@@ -13,3 +13,6 @@
 [submodule "sdkjs"]
 	path = sdkjs
 	url = https://github.com/ONLYOFFICE/sdkjs.git
+[submodule "build_tools"]
+	path = build_tools
+	url = https://github.com/ONLYOFFICE/build_tools.git

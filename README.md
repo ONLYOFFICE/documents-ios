@@ -1,5 +1,5 @@
 ![Platforms](https://img.shields.io/badge/Platforms-iOS-lightgrey.svg)
-[![AppStore: ONLYOFFICE Documents](https://img.shields.io/badge/documents--ios-4.0-blue.svg?style=flat)](https://itunes.apple.com/app/onlyoffice-documents/id944896972)
+[![AppStore: ONLYOFFICE Documents](https://img.shields.io/badge/documents--ios-6.0-blue.svg?style=flat)](https://itunes.apple.com/app/onlyoffice-documents/id944896972)
 
 ## The service repository of ONLYOFFICE Documents for iOS. To maintain the product life cycle.
 
